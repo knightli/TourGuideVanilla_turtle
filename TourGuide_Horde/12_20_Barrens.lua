@@ -2,16 +2,16 @@ TourGuide:RegisterGuide("The Barrens (12-20)", "Stonetalon Mountains (20-22)", "
 
 return [[
 
-A Veteran Uzzek |QID|1505| |N|Krang Stonehoof in Bloodhoof Village (49.52, 60.60)| |C|Warrior| |R|Tauren| |OID|1498| |Z|Mulgore|
-A Veteran Uzzek |QID|1505| |N|Tarshaw Jaggedscar, in Razor Hill Barracks (73.41, 19.44)| |C|Warrior| |R|Orc, Troll| |OID|1498| |Z|The Barrens|
-A Call of Fire (Part 1) |QID|2983| |N|Swart in Razor Hill Barracks (54.41, 42.58)| |C|Shaman| |R|Orc, Troll| |Z|Durotar|
-A Call of Fire (Part 1) |QID|2984| |N|Swart in Bloodhoof Village (48.4, 59.2)| |C|Shaman| |R|Tauren| |Z|Mulgore|
+A [Veteran Uzzek][老兵犹塞克] |QID|1505| |N|[Krang Stonehoof[克朗·石蹄] in [Bloodhoof Village][血蹄村] (49.52, 60.60)| |C|Warrior| |R|Tauren| |OID|1498| |Z|Mulgore|
+A [Veteran Uzzek][老兵犹塞克] |QID|1505| |N|[Tarshaw Jaggedscar][塔绍尔·锯痕], in [Razor Hill][剃刀岭] 兵营 (73.41, 19.44)| |C|Warrior| |R|Orc, Troll| |OID|1498| |Z|The Barrens|
+A [Call of Fire][火焰的召唤] (Part 1) |QID|2983| |N|[Swart][斯瓦特] in [Razor Hill][剃刀岭] 兵营 (54.41, 42.58)| |C|Shaman| |R|Orc, Troll| |Z|Durotar|
+A [Call of Fire][火焰的召唤] (Part 1) |QID|2984| |N|[Swart][斯瓦特] in [Bloodhoof Village][血蹄村] (48.4, 59.2)| |C|Shaman| |R|Tauren| |Z|Mulgore|
 
-R Orgimmar |QID|840| |N|Travel to Orgimmar (45.23, 63.84)|  |Z|Orgrimmar| |R|Scourge, Undead|
-f Orgimmar |QID|840| |N|Speak to Doras and grab flight path for Orgimmar (45.23, 63.84)| |Z|Orgrimmar| |R|Scourge, Undead|
+R [Orgrimmar][奥格瑞玛] |QID|840| |N|前往 [Orgrimmar][奥格瑞玛] (45.23, 63.84)|  |Z|[Orgrimmar][奥格瑞玛]| |R|Scourge, Undead|
+f [Orgrimmar][奥格瑞玛] |QID|840| |N|Speak to Doras and grab flight path for [Orgrimmar][奥格瑞玛] (45.23, 63.84)| |Z|[Orgrimmar][奥格瑞玛]| |R|Scourge, Undead|
 
-R Razor Hill |QID|840| |N|Run South to Razor Hill (50.9, 43.6)| |Z|Durotar| |R|Orc, Troll, Scourge, Undead|
-A Conscript of the Horde |QID|840| |N|Takrin Pathseeker in Razor Hill (50.9, 43.6)| |Z|Durotar| |R|Orc, Troll, Scourge, Undead|
+R [Razor Hill][剃刀岭] |QID|840| |N|Run South to [Razor Hill][剃刀岭] (50.9, 43.6)| |Z|Durotar| |R|Orc, Troll, Scourge, Undead|
+A Conscript of the Horde |QID|840| |N|Takrin Pathseeker in [Razor Hill][剃刀岭] (50.9, 43.6)| |Z|Durotar| |R|Orc, Troll, Scourge, Undead|
 
 R Camp Taurajo |QID|854| |N|Run east to Camp Taurajo (44.9, 58.7)| |R|Tauren|
 A Journey to the Crossroads |QID|854| |N|Kirge Sternhorn (44.9, 58.7)| |R|Tauren|
@@ -43,15 +43,15 @@ T Return to Jahan |QID|6364| |N|Jahan Hawkwing in The Crossroads (51.19, 29.09)|
 R The Crossroads |QID|844| |N|Follow the road, taking a left turn to the Crossroads (52, 30)| |R|Orc, Troll, Scourge, Undead|
 T Crossroads Conscription |QID|842| |N|Sergra Darkthorn in The Crossroads (52.21, 30.99)| |PRE|840| |R|Orc, Troll, Scourge, Undead|
 
-A Meats to Orgrimmar |QID|6365| |N|Zargh in The Crossroads (52.58, 29.86)| |R|Orc, Troll|
-T Meats to Orgrimmar |QID|6365| |N|Devrak in The Crossroads (51.52, 30.36)| |R|Orc, Troll|
-A Ride to Orgrimmar |QID|6384| |N|Devrak in The Crossroads (51.52, 30.36)| |R|Orc, Troll|
+A Meats to [Orgrimmar][奥格瑞玛] |QID|6365| |N|Zargh in The Crossroads (52.58, 29.86)| |R|Orc, Troll|
+T Meats to [Orgrimmar][奥格瑞玛] |QID|6365| |N|Devrak in The Crossroads (51.52, 30.36)| |R|Orc, Troll|
+A Ride to [Orgrimmar][奥格瑞玛] |QID|6384| |N|Devrak in The Crossroads (51.52, 30.36)| |R|Orc, Troll|
 h The Crossroads |QID|871| |N|Speak to Innkeeper Boorand Plainswind in and set hearth for The Crossroads (52.0, 29.9)|
-F Orgrimmar |QID|6385| |N|Speak to Devrak and fly to Orgrimmar (51.5, 30.3)| |R|Orc, Troll|
-T Ride to Orgrimmar |QID|6384| |N|Innkeeper Gryshka in Valley of Strength (54.21, 68.41)| |Z|Orgrimmar| |R|Orc, Troll|
-A Doras the Wind Rider Master |QID|6385| |N|Innkeeper Gryshka in Valley of Strength (54.21, 68.41)| |Z|Orgrimmar| |R|Orc, Troll|
-T Doras the Wind Rider Master |QID|6385| |N|Doras in Valley of Strength (45.40, 63.89)| |Z|Orgrimmar| |R|Orc, Troll|
-A Return to the Crossroads. |QID|6386| |N|Doras in Valley of Strength (45.40, 63.89)| |Z|Orgrimmar| |R|Orc, Troll|
+F [Orgrimmar][奥格瑞玛] |QID|6385| |N|Speak to Devrak and fly to [Orgrimmar][奥格瑞玛] (51.5, 30.3)| |R|Orc, Troll|
+T Ride to [Orgrimmar][奥格瑞玛] |QID|6384| |N|Innkeeper Gryshka in Valley of Strength (54.21, 68.41)| |Z|[Orgrimmar][奥格瑞玛]| |R|Orc, Troll|
+A Doras the Wind Rider Master |QID|6385| |N|Innkeeper Gryshka in Valley of Strength (54.21, 68.41)| |Z|[Orgrimmar][奥格瑞玛]| |R|Orc, Troll|
+T Doras the Wind Rider Master |QID|6385| |N|Doras in Valley of Strength (45.40, 63.89)| |Z|[Orgrimmar][奥格瑞玛]| |R|Orc, Troll|
+A Return to the Crossroads. |QID|6386| |N|Doras in Valley of Strength (45.40, 63.89)| |Z|[Orgrimmar][奥格瑞玛]| |R|Orc, Troll|
 
 R The Crossroads |QID|844| |N|Doras in Valley of Strength (52.58, 29.86)| |R|Orc, Troll|
 T Return to the Crossroads. |QID|6386| |N|Zargh in The Crossroads (52.58, 29.86)| |R|Orc, Troll|
@@ -66,7 +66,7 @@ A Wharfmaster Dizzywig |QID|1492| |N|Apothecary Helbrim in The Crossroads (51.47
 A Plainstrider Menace |QID|844| |N|Sergra Darkthorn in The Crossroads (52.21, 30.99)|
 A The Forgotten Pools |QID|870| |N|Tonga Runetotem in The Crossroads (52.23, 31.93)|
 
-T Veteran Uzzek |QID|1505| |N|Uzzek in Far Watch Post (61.39, 21.11)| |C|Warrior| |OID|1498|
+T [Veteran Uzzek][老兵犹塞克] |QID|1505| |N|Uzzek in Far Watch Post (61.39, 21.11)| |C|Warrior| |OID|1498|
 A Path of Defense |QID|1498| |N|Uzzek in Far Watch Post (61.39, 21.11)| |C|Warrior|
 
 R Thunder Ridge |QID|1498| |N|Travel to Thunder Ridge (39.17, 32.62)| |C|Warrior| |Z|Durotar|
@@ -81,31 +81,31 @@ C Forged Steel |QID|1503| |N|Collect Forged Steel Bars from the Stolen Iron Ches
 T Forged Steel |QID|1503| |N|Thun'grim Firegaze in The Barrens (54.56, 27.96) (57.23, 30.33)| |C|Warrior|
 
 R Grol'dom Farm |QID|1524| |N|Travel to Grol'dom Farm (56.04, 19.88)| |C|Shaman|
-T Call of Fire (Part 1) |QID|2984| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.88)| |C|Shaman| |R|Tauren|
-T Call of Fire (Part 1) |QID|2983| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.88)| |C|Shaman| |R|Orc, Troll|
-A Call of Fire (Part 2) |QID|1524| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.88)| |C|Shaman|
+T [Call of Fire][火焰的召唤] (Part 1) |QID|2984| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.88)| |C|Shaman| |R|Tauren|
+T [Call of Fire][火焰的召唤] (Part 1) |QID|2983| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.88)| |C|Shaman| |R|Orc, Troll|
+A [Call of Fire][火焰的召唤] (Part 2) |QID|1524| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.88)| |C|Shaman|
 
 R Shrine of the Dormant Flame |OID|1525| |N|Travel to Shrine of the Dormant Flame (36.60, 57.10) (36.58, 58.25) (36.86, 59.05)| |C|Shaman| |Z|Durotar|
-T Call of Fire (Part 2) |QID|1524| |N|Telf Joolam in Shrine of the Dormant Flame (36.86, 59.05) (37.01, 58.14) (38.95, 57.56) (39.17, 58.66) (38.57, 58.96)| |C|Shaman| |Z|Durotar|
-A Call of Fire (Part 3) |QID|1525| |N|Telf Joolam in Shrine of the Dormant Flame (38.57, 58.96)| |C|Shaman| |Z|Durotar|
+T [Call of Fire][火焰的召唤] (Part 2) |QID|1524| |N|Telf Joolam in Shrine of the Dormant Flame (36.86, 59.05) (37.01, 58.14) (38.95, 57.56) (39.17, 58.66) (38.57, 58.96)| |C|Shaman| |Z|Durotar|
+A [Call of Fire][火焰的召唤] (Part 3) |QID|1525| |N|Telf Joolam in Shrine of the Dormant Flame (38.57, 58.96)| |C|Shaman| |Z|Durotar|
 
 R Thorn Hill |QID|1525.1| |N|Travel to Thorn Hill (56.94, 24.33)| |C|Shaman|
 K Razormane Geomancer |QID|1525.1| |N|Kill Razormane Geomancer and collect Fire Tar in Thorn Hill (56.94, 24.33)| |C|Shaman|
 
-R Razor Hill |QID|1525.2| |N|Travel to Razor Hill (54.10, 40.78)| |C|Shaman| |Z|Durotar|
+R [Razor Hill][剃刀岭] |QID|1525.2| |N|Travel to [Razor Hill][剃刀岭] (54.10, 40.78)| |C|Shaman| |Z|Durotar|
 R Dustwind Cave |QID|1525.2| |N|Travel to Dustwind Cave (54.10, 40.78) (54.05, 37.28) (52.87, 29.04)| |C|Shaman| |Z|Durotar|
 K Burning Blade Cultist |QID|1525.2| |N|Kill Burning Blade Cultist and collect a Reagent Pouch in Dustwind Cave (52.55, 26.65)| |C|Shaman| |Z|Durotar|
 
 R Shrine of the Dormant Flame |QID|1526| |N|Travel to Shrine of the Dormant Flame (36.60, 57.10) (36.58, 58.25) (36.86, 59.05)| |C|Shaman| |Z|Durotar|
-T Call of Fire (Part 3) |QID|1525| |N|Telf Joolam in Shrine of the Dormant Flame (36.86, 59.05) (37.01, 58.14) (38.95, 57.56) (39.17, 58.66) (38.55, 58.96)| |C|Shaman| |Z|Durotar|
-A Call of Fire (Part 4) |QID|1526| |N|Telf Joolam in Shrine of the Dormant Flame (38.55, 58.96)| |C|Shaman| |Z|Durotar|
+T [Call of Fire][火焰的召唤] (Part 3) |QID|1525| |N|Telf Joolam in Shrine of the Dormant Flame (36.86, 59.05) (37.01, 58.14) (38.95, 57.56) (39.17, 58.66) (38.55, 58.96)| |C|Shaman| |Z|Durotar|
+A [Call of Fire][火焰的召唤] (Part 4) |QID|1526| |N|Telf Joolam in Shrine of the Dormant Flame (38.55, 58.96)| |C|Shaman| |Z|Durotar|
 N Fire Sapta |QID|1526.1| |N|Use Fire Sapta to gain the (spell:9735) buff (38.67, 58.32)| |C|Shaman| |Z|Durotar| |U|6636| |BUFF|132092|
-C Call of Fire (Part 4) |QID|1526| |N|Defeat the Minor Manifestation of Fire n Shrine of the Dormant Flame (38.67, 58.32)| |C|Shaman| |Z|Durotar|
-T Call of Fire (Part 4) |QID|1526| |N|Brazier of the Dormant flame in Shrine of the Dormant Flame (38.92, 58.24)| |C|Shaman| |Z|Durotar|
-A Call of Fire (Part 5) |QID|1527| |N|Brazier of the Dormant flame in Shrine of the Dormant Flame (38.92, 58.24)| |C|Shaman| |Z|Durotar|
+C [Call of Fire][火焰的召唤] (Part 4) |QID|1526| |N|Defeat the Minor Manifestation of Fire n Shrine of the Dormant Flame (38.67, 58.32)| |C|Shaman| |Z|Durotar|
+T [Call of Fire][火焰的召唤] (Part 4) |QID|1526| |N|Brazier of the Dormant flame in Shrine of the Dormant Flame (38.92, 58.24)| |C|Shaman| |Z|Durotar|
+A [Call of Fire][火焰的召唤] (Part 5) |QID|1527| |N|Brazier of the Dormant flame in Shrine of the Dormant Flame (38.92, 58.24)| |C|Shaman| |Z|Durotar|
 
 R Grol'dom Farm |QID|1527| |N|Travel to Grol'dom Farm (56.04, 19.89)| |C|Shaman|
-T Call of Fire (Part 5) |QID|1527| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.89)| |C|Shaman|
+T [Call of Fire][火焰的召唤] (Part 5) |QID|1527| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.89)| |C|Shaman|
 
 N As you go... |AYG|924| |QID|844| |N|Kill any Raptors for 12 Raptor Head and Greater Plainstrider for 7 Plainstrider Beak| |PRE|809| |EQID|869|
 R Dreadmist Den |QID|924| |N|Travel to Dreadmist Den (51.10, 22.70) (50.42, 21.96) (47.96, 19.12)| |PRE|809| |R|Orc, Troll|
